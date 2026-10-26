@@ -1,5 +1,7 @@
 # CS305
 Software Security
+
+
 I worked with Artemis Financial, a company that creates customized financial plans for savings, retirement, investments, and insurance. At Global Rain, I secured the company's RESTful web application against external threats while keeping its functionality intact.
 
 I reviewed the Java source code and upgraded the Maven configuration from Spring Boot 2.2.4.RELEASE to 4.1.2. I used OWASP Dependency-Check 13.0.0 to evaluate third-party dependencies. The initial scan found 13 vulnerable dependencies and 151 vulnerabilities, but the final scan showed zero vulnerabilities across 56 entries, with 28 unique dependencies.
